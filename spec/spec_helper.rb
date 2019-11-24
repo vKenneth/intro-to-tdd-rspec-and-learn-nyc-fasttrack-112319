@@ -11,3 +11,6 @@ RSpec.configure do |config|
   #     --seed 1234
   config.order = 'default'
 end
+
+answer = "Sylwia"
+puts "Hi my name is #{answer}"
